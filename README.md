@@ -10,3 +10,7 @@ The medival game that no one asked for! Is probbably going to take me my 4 highs
 pls help me I am in paaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaain
  
 ![pixil-frame-0 (19)](https://github.com/AngelBitsov/VALARIA/assets/143033010/1a3654e7-80b8-43af-ae74-c8dd2050c32e)
+
+
+
+ik picture is small but it wont let me change the size...
