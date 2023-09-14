@@ -13,7 +13,8 @@ End date: ________
 
 pls help me I am in paaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaain
  
-![pixil-frame-0 (19)](https://github.com/AngelBitsov/VALARIA/assets/143033010/1a3654e7-80b8-43af-ae74-c8dd2050c32e)
+![image](https://github.com/AngelBitsov/VALARIA/assets/143033010/d0b38d83-d20a-4d4b-8fb4-e5cef466d59f)
+
 
 
 
