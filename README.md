@@ -15,5 +15,5 @@ Join the adventure and connect with fellow gamers on Discord: [Valaria Discord](
 
 We welcome contributions to make Valaria even more epic! Feel free to fork the repository, submit issues, and participate in discussions. Let's work together to make Valaria the best it can be.
 
-Happy gaming!
+Happy adventuring!
 
