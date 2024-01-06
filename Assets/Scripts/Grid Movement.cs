@@ -1,11 +1,10 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class GridMovement : MonoBehaviour
 {
-    public float gridSize = 1f; // Adjust this to your grid size
-    public float moveSpeed = 5f; // Adjust this to your desired movement speed
+    public float gridSize = 1f;
+    public float moveSpeed = 5f;
+
     private Vector3 targetPosition;
     private bool isMoving = false;
 
@@ -18,21 +17,12 @@ public class GridMovement : MonoBehaviour
     {
         if (!isMoving)
         {
-            if (Input.GetKey(KeyCode.UpArrow))
+            float horizontalInput = Input.GetAxis("Horizontal");
+            float verticalInput = Input.GetAxis("Vertical");
+
+            if (Mathf.Abs(horizontalInput) > 0.1f || Mathf.Abs(verticalInput) > 0.1f)
             {
-                Move(Vector3.up);
-            }
-            else if (Input.GetKey(KeyCode.DownArrow))
-            {
-                Move(Vector3.down);
-            }
-            else if (Input.GetKey(KeyCode.LeftArrow))
-            {
-                Move(Vector3.left);
-            }
-            else if (Input.GetKey(KeyCode.RightArrow))
-            {
-                Move(Vector3.right);
+                Move(new Vector3(horizontalInput, verticalInput, 0f));
             }
         }
     }
@@ -54,5 +44,10 @@ public class GridMovement : MonoBehaviour
                 isMoving = false;
             }
         }
+    }
+
+    public bool IsMoving()
+    {
+        return isMoving;
     }
 }

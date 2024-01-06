@@ -2,7 +2,7 @@
 
 Welcome to Valaria, a realm once brimming with bliss and life, now a corrupted remnant of its former glory. Will you be the one to restore this wretched land to its former grandeur?
 
-Join the adventure and connect with fellow gamers on Discord: [Valaria Discord]([https://discord.gg/MJT9qdXS4F](https://discord.gg/qf847eHfcP)).
+Join the adventure and connect with fellow gamers on Discord: [Valaria Discord](https://discord.gg/MJT9qdXS4F).
 
 ## Important Dates
 
