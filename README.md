@@ -1,4 +1,8 @@
 # VALARIA
+<div style="margin: 10px;">
+    <img src="https://github.com/TheArchangelWarrior/VALARIA/assets/143033010/4d8a6a54-6cc0-49a4-81d1-042ddcc52090" alt="playerOneCharacterSheet" width="374" height="42">
+</div>
+
 
 Welcome to Valaria, a realm once brimming with bliss and life, now a corrupted remnant of its former glory. Will you be the one to restore this wretched land to its former grandeur?
 
