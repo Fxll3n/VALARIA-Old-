@@ -12,7 +12,9 @@ Join the adventure and connect with fellow gamers on Discord: [Valaria Discord](
 ![Valaria](https://github.com/AngelBitsov/VALARIA/assets/143033010/d0b38d83-d20a-4d4b-8fb4-e5cef466d59f)
 
 ## How to Contribute
-<img src="https://github.com/TheArchangelWarrior/VALARIA/assets/143033010/a4b52131-caad-47e7-8339-7d4ec430220b" alt="playerOneCharacterSheet" width="200" height="200">
+<div style="margin: 10px;">
+    <img src="https://github.com/TheArchangelWarrior/VALARIA/assets/143033010/a4b52131-caad-47e7-8339-7d4ec430220b" alt="playerOneCharacterSheet" width="374" height="42">
+</div>
 
 
 We welcome contributions to make Valaria even more epic! Feel free to fork the repository, submit issues, and participate in discussions. Let's work together to make Valaria the best it can be.
