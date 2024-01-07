@@ -13,7 +13,8 @@ Join the adventure and connect with fellow gamers on Discord: [Valaria Discord](
 - Start Date: September 1st, 2023
 - End Date: [To be determined]
 
-![Valaria](https://github.com/AngelBitsov/VALARIA/assets/143033010/d0b38d83-d20a-4d4b-8fb4-e5cef466d59f)
+![Valaria](https://github.com/TheArchangelWarrior/VALARIA/assets/143033010/82e8a792-b399-4d61-b6ed-091b31b3a79f)
+
 
 ## How to Contribute
 <div style="margin: 10px;">
