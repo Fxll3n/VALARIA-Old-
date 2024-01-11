@@ -1,28 +1,66 @@
-# VALARIA
-<div style="margin: 10px;">
-    <img src="https://github.com/TheArchangelWarrior/VALARIA/assets/143033010/4d8a6a54-6cc0-49a4-81d1-042ddcc52090" alt="playerOneCharacterSheet" width="374" height="42">
-</div>
+<br/>
+<p align="center">
+  <a href="https://github.com/TheArchangelWarrior/Valaria">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
+  <h3 align="center">Valaria</h3>
 
-Welcome to Valaria, a realm once brimming with bliss and life, now a corrupted remnant of its former glory. Will you be the one to restore this wretched land to its former grandeur?
+  <p align="center">
+    2D Topdown Unity RPG Game.
+    <br/>
+    <br/>
+    <a href="https://github.com/TheArchangelWarrior/Valaria/issues">Request Feature</a>
+  </p>
+</p>
 
-Join the adventure and connect with fellow gamers on Discord: [Valaria Discord](https://discord.gg/qf847eHfcP).
+![Downloads](https://img.shields.io/github/downloads/TheArchangelWarrior/Valaria/total) ![Contributors](https://img.shields.io/github/contributors/TheArchangelWarrior/Valaria?color=dark-green) ![Issues](https://img.shields.io/github/issues/TheArchangelWarrior/Valaria) ![License](https://img.shields.io/github/license/TheArchangelWarrior/Valaria) 
 
-## Important Dates
+## Table Of Contents
 
-- Start Date: September 1st, 2023
-- End Date: [To be determined]
+* [About the Project](#about-the-project)
+* [Built With](#built-with)
+* [Getting Started](#getting-started)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [License](#license)
+* [Authors](#authors)
+* [Acknowledgements](#acknowledgements)
 
-![Valaria](https://github.com/TheArchangelWarrior/VALARIA/assets/143033010/82e8a792-b399-4d61-b6ed-091b31b3a79f)
+## About The Project
 
+![Screen Shot](images/screenshot.png)
 
-## How to Contribute
-<div style="margin: 10px;">
-    <img src="https://github.com/TheArchangelWarrior/VALARIA/assets/143033010/a4b52131-caad-47e7-8339-7d4ec430220b" alt="playerOneCharacterSheet" width="374" height="42">
-</div>
-
-
-We welcome contributions to make Valaria even more epic! Feel free to fork the repository, submit issues, and participate in discussions. Let's work together to make Valaria the best it can be.
+I’ve always wanted to make a game that others would enjoy playing. Inspired by older console games like Zelda and Pokemon, I have started the creation of my own, Valaria! This Fantasy RPG set in a mediaval world where magic and swordsmanship are an everyday skill. You the player, has to fight through monsters and upgrade your gear to progress. 
 
 Happy adventuring!
 
+## Built With
+
+This project is being developed on Unity 2D.
+
+## Getting Started
+
+
+To get a local copy up and running follow these simple example steps.
+
+## Usage
+
+Our team is doing their best to get a working demo in the future. Until then, please wait patiently.
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/TheArchangelWarrior/Valaria/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
+* Please make sure you check your spelling and grammar.
+* Create individual PR for each suggestion.
+* Please also read through the [Code Of Conduct](https://github.com/TheArchangelWarrior/Valaria/blob/main/CODE_OF_CONDUCT.md) before posting your first idea as well.
+
+## License
+
+Distributed under the MIT License. See [LICENSE](https://github.com/TheArchangelWarrior/Valaria/blob/main/LICENSE.md) for more information.
+
+## Authors
+
+* **Angel Bitsov** - *Comp Sci Student at JHHS* - [Angel Bitsov](https://github.com/TheArchangelWarrior/) - *Code & Art*
+* **Matthew D.** - *Cybersecurty and Comp Sci Student at JHHS* - [Matthew D.](https://github.com/Resident-Fortress/) - *Repo Maintainer*
