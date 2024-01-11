@@ -20,12 +20,10 @@
 
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
-* [Getting Started](#getting-started)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [License](#license)
 * [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
@@ -38,11 +36,6 @@ Happy adventuring!
 ## Built With
 
 This project is being developed on Unity 2D.
-
-## Getting Started
-
-
-To get a local copy up and running follow these simple example steps.
 
 ## Usage
 
