@@ -27,7 +27,8 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![VALARIA TITLE](https://github.com/TheArchangelWarrior/VALARIA/assets/143033010/b21141d2-81d1-40f4-90fd-bb7028b6673c)
+
 
 I’ve always wanted to make a game that others would enjoy playing. Inspired by older console games like Zelda and Pokemon, I have started the creation of my own, Valaria! This Fantasy RPG set in a mediaval world where magic and swordsmanship are an everyday skill. You the player, has to fight through monsters and upgrade your gear to progress. 
 
